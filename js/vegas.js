@@ -1,4 +1,4 @@
-  $(function() {
+   $(function() {
      $.vegas('slideshow', {
          backgrounds: [{
              src: 'img/bg/bg1.jpg',
@@ -11,4 +11,4 @@
              fade: 1000
          }]
      })
- }); 
+ });  
